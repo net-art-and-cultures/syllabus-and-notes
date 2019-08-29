@@ -29,4 +29,4 @@ The prerequisite for this class is New Media Crash Course (FVNM 2100). This is a
 
 Refer to the [Homework](homework.md) page && [Supplies + Materials](supplies.md) page for more info on that.
 
-Refer to the class syllabus for information regarding Attendance, Accommodations && Evaluation.
+Refer to the [class syllabus](nbriz_FA19_net-art-and-cultures-syllabus.pdf) for information regarding Attendance, Accommodations && Evaluation.
