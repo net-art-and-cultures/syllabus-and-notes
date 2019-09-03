@@ -2,6 +2,8 @@
 
 ### DAY 00: [SEPT, 3]
 
+Dont' forget to download + install everything listed in the [Supplies + Matrials](supplies.md) page, as well as [VirtualBox](https://www.virtualbox.org/) which we'll be using for a few demos next week. (u'll also want to download the [Kali Linux](https://www.kali.org/downloads/) which we'll be running in Virtual Box).
+
 > Hacking is about "using new technologies in a way which is not intended." -- unnamed German hacker.
 
 [![Aunauthorized Access](imgs/unauthorized-access.jpg)](https://archive.org/details/UnauthorizedAccess)
