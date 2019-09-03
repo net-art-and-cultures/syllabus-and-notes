@@ -38,4 +38,6 @@ Refer to the [Homework](homework.md) page && [Supplies + Materials](supplies.md)
 
 Refer to the [class syllabus](nbriz_FA19_net-art-and-cultures-syllabus.pdf) for information regarding Attendance, Accommodations && Evaluation.
 
-For other Code + Culture References + Links, refer to the [links](links.md) page/
+For other Code + Culture References + Links, refer to the [links](links.md) page
+
+For class lecture notes, refer to the [notes](notes/README.md) page
