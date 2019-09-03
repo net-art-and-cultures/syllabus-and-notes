@@ -47,6 +47,35 @@ URL (Universal Resource Locator)
 [The Root Servers](https://www.iana.org/domains/root/servers)
 
 
+### tracing our packet's route
+
+1. visit a website in your browser, right-mouse click the page and "View Source." This is the HTML code, the file itself, that just traveled the world to reach your computer.
+
+2. In your terminal, type: `nslookup thewebsite.com`
+to find the IP address of the server the website you visited is "hosted" on (replace "thewebsite.com" with your website). Your browser handles this lookup for you, first by asking your ISP and if they don't know the request get's passed along to one of these [Root Domain Server](http://root-servers.org/).
+
+
+4. Sites like [whatismyipaddress.com/ip-lookup](https://whatismyipaddress.com/ip-lookup) && [ip2location.com](http://www.ip2location.com/demo) can tell u where that server is physically located
+
+5. In your terminal, type: `traceroute somewebsite.com` or `mtr somewebsite.com` (if you have mtr installed) to follow the path that file took to get from here to there. It takes less than a second (only milliseconds) to "hop" through dozens of computers around the world.
+
+![comcast](images/comcastnetwork.jpg)
+ Comcast's fiber network across the country
+
+![Cuba Cable](images/cubacable.jpg)
+
+[this undersea cable its on its way to Cuba from Venezuela](http://runrun.es/runrunes/23374/la-corrupcion-cubana-en-empresas-bajo-las-ordenes-de-ramiro-valdes-salpicaria-a-venezuela-y-su-cable-de-fibra-a-cuba.html)
+
+![exchange points and undersea cables](images/internetmaps.gif)
+[view interactive undersea cable map](http://www.submarinecablemap.com/)
+[view interactive network exchange points map](http://www.internetexchangemap.com/#/)
+
+![landing point](images/manwhole.jpg)
+
+["This modest indentation on the Canadian coastline is a major Internet landmark, a sort of Ellis Island of the Web: It’s where a submarine cable owned by Hibernia Atlantic comes ashore."](http://andrewblum.net/2009/netscapes-wired-magazine/)
+
+![st Thomas](images/stthomas.png)
+
 ## a brief history of the Internet
 
 [![History of the Internet](https://i3.ytimg.com/vi/21eFwbb48sE/maxresdefault.jpg)](https://youtu.be/21eFwbb48sE)
@@ -137,33 +166,3 @@ With the standardization of TCP/IP came the real possibility to connect the ARPA
 Former US vice-president Al Gore may had [misspoken](https://www.youtube.com/watch?v=BnFJ8cHAlco) when he said he “took the initiative in creating the Internet” but what he was referring to was the work he and the Clinton Administration did to expand Internet usage beyond the academic niche. He wrote essays on the subject including “[Infrastructure for a Global Village](https://www.scientificamerican.com/magazine/sa/1991/09-01/#article-infrastructure-for-the-global-villa)” and pushed granting initiatives that lead to the National Information Infrastructure and the first popular graphical web browser (Mosaic). In 1994 the commercial restrictions were lifted when the Clinton Administration privatized the backbone. Around the same time Tim Berners-Lee's "web" project was really starting to get popular, and with that everyone started going "online."
 
 Today, no single institution controls the Internet. There are thousands of commercial companies, non-for profits, universities, governments, public interest groups and other entities who play different roles in controlling and maintaining the Internet. The many backbones (or [Tier 1 networks](http://en.wikipedia.org/wiki/Tier_1_network#List_of_tier_1_networks)) are maintained by different companies and interconnect to each other to exchange traffic (at [Internet exchange points](http://www.internetexchangemap.com/#/), the Internet's many "centers") on a voluntary (surprisingly informal) basis. There are a handful of international not-for-profit organizations like the IETF ([Internet Engineering Task Force](http://www.ietf.org/)) and ICANN ([Internet Corporation for Assigned Names and Numbers](https://www.icann.org/)) which develop and maintain the Internet’s standards and conventions, many of which are open for anyone to join and participate in.
-
-
-### tracing our packet's route
-
-1. visit a website in your browser, right-mouse click the page and "View Source." This is the HTML code, the file itself, that just traveled the world to reach your computer.
-
-2. In your terminal, type: `nslookup thewebsite.com`
-to find the IP address of the server the website you visited is "hosted" on (replace "thewebsite.com" with your website). Your browser handles this lookup for you, first by asking your ISP and if they don't know the request get's passed along to one of these [Root Domain Server](http://root-servers.org/).
-
-
-4. Sites like [whatismyipaddress.com/ip-lookup](https://whatismyipaddress.com/ip-lookup) && [ip2location.com](http://www.ip2location.com/demo) can tell u where that server is physically located
-
-5. In your terminal, type: `traceroute somewebsite.com` or `mtr somewebsite.com` (if you have mtr installed) to follow the path that file took to get from here to there. It takes less than a second (only milliseconds) to "hop" through dozens of computers around the world.
-
-![comcast](images/comcastnetwork.jpg)
- Comcast's fiber network across the country
-
-![Cuba Cable](images/cubacable.jpg)
-
-[this undersea cable its on its way to Cuba from Venezuela](http://runrun.es/runrunes/23374/la-corrupcion-cubana-en-empresas-bajo-las-ordenes-de-ramiro-valdes-salpicaria-a-venezuela-y-su-cable-de-fibra-a-cuba.html)
-
-![exchange points and undersea cables](images/internetmaps.gif)
-[view interactive undersea cable map](http://www.submarinecablemap.com/)
-[view interactive network exchange points map](http://www.internetexchangemap.com/#/)
-
-![landing point](images/manwhole.jpg)
-
-["This modest indentation on the Canadian coastline is a major Internet landmark, a sort of Ellis Island of the Web: It’s where a submarine cable owned by Hibernia Atlantic comes ashore."](http://andrewblum.net/2009/netscapes-wired-magazine/)
-
-![st Thomas](images/stthomas.png)
