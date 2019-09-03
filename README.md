@@ -10,6 +10,8 @@ office hours: by-appointment-only ;
 class website: https://github.com/net-art-and-cultures ;
 ```
 
+![MTAA Net Art Diagram](imgs/mtaa.jpg)
+
 > The Web represents a grand emotional, sensory, and intellectual adventure for anyone willing to explore it actively. [...] For artists, ignoring the imperative to grasp the cultural implications of the Internet means risking irrelevance. [...] As human discourse adapts to its new home, everything we do and think as human beings will be and is being shaped by new values. [...] If it’s ever fair to say that anything has “changed everything,” it’s fair to say so about the Internet.
 
 
