@@ -10,6 +10,11 @@ office hours: by-appointment-only ;
 class website: https://github.com/net-art-and-cultures ;
 ```
 
+> The Web represents a grand emotional, sensory, and intellectual adventure for anyone willing to explore it actively. [...] For artists, ignoring the imperative to grasp the cultural implications of the Internet means risking irrelevance. [...] As human discourse adapts to its new home, everything we do and think as human beings will be and is being shaped by new values. [...] If it’s ever fair to say that anything has “changed everything,” it’s fair to say so about the Internet.
+
+
+*— Virginia Heffernan, from [Magic and Loss: The Internet as Art](https://www.goodreads.com/book/show/23492802-magic-and-loss). 2016*
+
 ## Course Description
 
 This studio course examines the Internet as an artistic medium (computers, networks and code) as well as a masterpiece of human civilization (a la Virginia Heffernan); various forms of online culture will be shared, discussed and produced. While we will occasionally be discussing canonical Internet Art (jodi.org, Olia Lialina, Alexi Shulgin, etc.) we will generally be taking a broader cultural view, also considering the works of web designers/developers, meme makers, demoscensters and hackers. This course is also an introduction to programming (beginner level JavaScript), a large emphasis will be placed on developing technical proficiencies related to the web (intermediate level HTML/CSS, Browser APIs and developer tools). The technologies studied will also be discussed from an ethical perspective (Internet health, machine bias, power, access, control) understanding how they work as environments (media ecology) and how they inform on/offline communities.
