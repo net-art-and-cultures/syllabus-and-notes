@@ -34,10 +34,24 @@ The prerequisite for this class is New Media Crash Course (FVNM 2100). This is a
 - Solid understanding of what it means to work collaboratively on online projects including a working knowledge of open-source collaboration tools
 - General understanding of the political/social/aesthetic implications of living in a networked culture (what copying/collaboration/authorship mean today; what algorithms are and how they affect us; what privacy means in a surveillance state, a general understanding of the economic/sociopolitical role networks && data play in our lives )
 
+## Quick Links
+
 Refer to the [Homework](homework.md) page && [Supplies + Materials](supplies.md) page for more info on that.
 
 Refer to the [class syllabus](nbriz_FA19_net-art-and-cultures-syllabus.pdf) for information regarding Attendance, Accommodations && Evaluation.
 
 For other Code + Culture References + Links, refer to the [links](links.md) page
 
-For class lecture notes, refer to the [notes](notes/README.md) page
+## Lecture Notes
+
+- [the Internet](notes/the-internet/README.md)
+
+- [File Paths](notes/file-paths/README.md)
+
+- [the Command Line](notes/command-line/README.md)
+
+- [Markup Languages](notes/markup/README.md)
+
+- [HTML Review](notes/html/README.md)
+
+- [CSS Review](notes/css/README.md)
