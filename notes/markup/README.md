@@ -122,6 +122,8 @@ becomes this...
 
 there’s even artist made markup languages like GML or [Graffiti Markup Language](http://www.graffitimarkuplanguage.com/category/projects/) which is used as the backbone of a boatload of amazing new-media art projects by lots of different artists.
 
+![gml](images/gml.png)
+
 
 ### markdown
 
