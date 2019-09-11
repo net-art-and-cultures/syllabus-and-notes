@@ -1,6 +1,6 @@
 # Homework
 
-### DAY 00: [SEPT, 3]
+### WEEK 01: [SEPT, 3]
 
 Dont' forget to download + install everything listed in the [Supplies + Matrials](supplies.md) page, as well as [VirtualBox](https://www.virtualbox.org/) which we'll be using for a few demos next week. (u'll also want to download the [Kali Linux](https://www.kali.org/downloads/) which we'll be running in Virtual Box).
 
@@ -35,3 +35,16 @@ if u need a refresher, here are a few links to learning resources:
   - [HTML references && tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML),
   - [CSS references && tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [HTML and CSS - Book](http://www.htmlandcssbook.com/)
+
+
+### WEEK 02: [SEPT, 10]
+
+[![Revolution OS](imgs/revolution-os.png)](https://archive.org/details/RevolutionOS)
+
+Watch [Revolution OS](https://archive.org/details/RevolutionOS)
+
+Though  admittedly  not as exciting as some of the other docs in our [list](links.md) (in terms of it's style) this 2001 doc does a pretty solid job of explaining the history + philosophies of the Open Source + Free Software movement[s]. It includes plenty of interviews w/influential figures of the movement[s] like Linus Torvalds && Richard Stallman. (it's also [available on YouTube](https://www.youtube.com/watch?v=4vW62KqKJ5A) if u have trouble streaming on archive.org)
+
+Keep practicing using ur terminal! notes for all Mac OS commands we've used in class are [available here](notes/command-line/README.md)
+
+Continuing working on HTML/CSS tutorials (linked above) if u feel u need to catch up on that front, if u're not sure refer to my notes on [markup](notes/markup/README.md), [HTML](notes/html/README.md) && [CSS](notes/css/README.md) for an overview of what u should already know.
