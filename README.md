@@ -48,7 +48,13 @@ For other Code + Culture References + Links, refer to the [links](links.md) page
 
 - [File Paths](notes/file-paths/README.md)
 
+- [Hackers](notes/hackers/README.md)
+
 - [the Command Line](notes/command-line/README.md)
+
+- [Open Source](notes/open-source/README.md)
+
+- [git + GitHub](notes/git-and-github/README.md)
 
 - [Markup Languages](notes/markup/README.md)
 

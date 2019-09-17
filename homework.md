@@ -48,3 +48,11 @@ Though  admittedly  not as exciting as some of the other docs in our [list](link
 Keep practicing using ur terminal! notes for all Mac OS commands we've used in class are [available here](notes/command-line/README.md)
 
 Continuing working on HTML/CSS tutorials (linked above) if u feel u need to catch up on that front, if u're not sure refer to my notes on [markup](notes/markup/README.md), [HTML](notes/html/README.md) && [CSS](notes/css/README.md) for an overview of what u should already know.
+
+### WEEK 03: [SEPT, 17]
+
+[![hyperland](imgs/hyperland.png)](https://archive.org/details/DouglasAdams-Hyperland)
+
+watch [Hyperland](https://archive.org/details/DouglasAdams-Hyperland), this BBC doc form 1990 is written by && stars Douglas Adams (author of A Hitchhikers Guide to the Galaxy), it's a history of "hypermedia" released just before the World Wide Web took off, ie. just before anyone had any real experience w/hypermedia (that serendipitous timing makes this a unique historical artifact). The the film itself is a single-channel linear video, it tries to present the viewer w/what a hypermedia experience is like through the film's aesthetic (which is also a very tasty 90's aesthetic). quite the gem.
+
+Create a website using HTML/CSS (it can be a simple or complex as u want) but it must be "versioned" on ur GitHub (u should have more than 1 commit).
