@@ -1,7 +1,7 @@
 # FLOSS
 ## Free/Libre Open Source Software
 
-> the whole GNU project is really one big hack, it's one big act of subversive clever playfulness, to change society for the better, because I'm only interested in changing it for the better, but in a clever way. ⸺Richard Stallman
+> the whole GNU project is really one big hack, it's one big act of subversive clever playfulness, to change society for the better. ⸺Richard Stallman
 
 [![Revolution OS](images/revolution-os.png)](https://archive.org/details/RevolutionOS)
 
