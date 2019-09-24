@@ -7,21 +7,21 @@
 -- *HTML (pug) + CSS (scss)*
 
 
-![Geometric Fox](images/CSS_Geometric_Fox.png)
+![CSS Geometric Fox](images/CSS_Geometric_Fox.png)
 
-[Geometric Fox](https://codepen.io/cassidoo/pen/mpOPqN) by Cassidy Williams
+[CSS Geometric Fox](https://codepen.io/cassidoo/pen/mpOPqN) by Cassidy Williams
 -- *HTML (haml) + CSS (less)*
 
 
 ![Bouncy Castle](images/Bouncy_Castle.png)
 
-[Bouncy Castle](https://codepen.io/steveeeie/pen/aEqZaz) by  Steve Meredith
+[CSS 3D Bouncy Castle](https://codepen.io/steveeeie/pen/aEqZaz) by  Steve Meredith
 -- *HTML + CSS (scss)*
 
 
 ![Infinite Steps](images/Infinite_Steps.png)
 
-[Infinite Steps](https://codepen.io/YusukeNakaya/pen/rJxevm) by  Yusuke Nakaya
+[Only CSS: Infinite Steps](https://codepen.io/YusukeNakaya/pen/rJxevm) by  Yusuke Nakaya
 -- *HTML (pug) + CSS (scss)*
 
 
