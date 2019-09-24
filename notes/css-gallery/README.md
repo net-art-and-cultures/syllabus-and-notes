@@ -332,7 +332,7 @@
 
 ![CSS:_Cat_Swinging_on_String](images/CSS:_Cat_Swinging_on_String.png)
 
-[CSS: Cat Swinging on String](url) by author
+[CSS: Cat Swinging on String](https://codepen.io/davidkpiano/pen/Xempjq) by David Khourshid
 -- *HTML + CSS (scss)*
 
 
