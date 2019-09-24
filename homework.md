@@ -56,3 +56,14 @@ Continuing working on HTML/CSS tutorials (linked above) if u feel u need to catc
 watch [Hyperland](https://archive.org/details/DouglasAdams-Hyperland), this BBC doc form 1990 is written by && stars Douglas Adams (author of A Hitchhikers Guide to the Galaxy), it's a history of "hypermedia" released just before the World Wide Web took off, ie. just before anyone had any real experience w/hypermedia (that serendipitous timing makes this a unique historical artifact). The the film itself is a single-channel linear video, it tries to present the viewer w/what a hypermedia experience is like through the film's aesthetic (which is also a very tasty 90's aesthetic). quite the gem.
 
 Create a website using HTML/CSS (it can be a simple or complex as u want) but it must be "versioned" on ur GitHub (u should have more than 1 commit), name ur repo "week3".
+
+
+### WEEK 04: [SEPT, 24]
+
+for homework this week i want u to spend as much time as u can practicing ur CSS. create a repo called **CSS-ercise** && work on one or all of the following exercises:
+
+- come up w/a few CSS ideas (as many as u have time for) && try to execute them. these could be for a portfolio page, or a blog/publication style layout or it could be more of a sketch like the examples in [CSS Art Gallery](notes/css-gallery/README.md)
+
+- try to recreate the CSS of a web page (or part of a page) u come across in ur Internet ventures. try to get as far as u can w/out using the Inspector tool && then compare ur work to the actual code w/the Inspector after.
+
+- create a CSS still life. setup a classic still life (fruits, flowers, etc) && see if u can recreate it in "pure CSS"
