@@ -67,3 +67,11 @@ for homework this week i want u to spend as much time as u can practicing ur CSS
 - try to recreate the CSS of a web page (or part of a page) u come across in ur Internet ventures. try to get as far as u can w/out using the Inspector tool && then compare ur work to the actual code w/the Inspector after.
 
 - create a CSS still life. setup a classic still life (fruits, flowers, etc) && see if u can recreate it in "pure CSS"
+
+
+### WEEK 05: [Oc, 1]
+
+for homework this week u'll be forking this [p5-template](https://github.com/net-art-and-cultures/p5-template) repository i made && using it as u watch + code along w/the following "Coding Rainbow" lessons:
+...TBD...
+
+after watching/experimenting w/the lessons i want u to create ur own sketch (anything u want) using p5.js && submit it back to the original repo as a "pull-request", following the instructions in the README of the [repo](https://github.com/net-art-and-cultures/p5-template)
