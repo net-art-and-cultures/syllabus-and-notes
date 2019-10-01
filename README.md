@@ -63,3 +63,7 @@ For other Code + Culture References + Links, refer to the [links](links.md) page
 - [CSS Review](notes/css/README.md)
 
 - [CSS Art Gallery](notes/css-gallery/README.md)
+
+- [CSS Examples + Demos](https://github.com/net-art-and-cultures/css-demos)
+
+- [JavaScript: Intro to Programming](notes/javascript/README.md)
