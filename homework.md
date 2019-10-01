@@ -71,7 +71,11 @@ for homework this week i want u to spend as much time as u can practicing ur CSS
 
 ### WEEK 05: [Oc, 1]
 
-for homework this week u'll be forking this [p5-template](https://github.com/net-art-and-cultures/p5-template) repository i made && using it as u watch + code along w/the following "Coding Rainbow" lessons:
-...TBD...
+for homework this week u'll be forking this [p5-template](https://github.com/net-art-and-cultures/p5-template) repository i made && using it as u watch + code along w/the following "[Coding Rainbow](https://thecodingtrain.com/Tutorials/)" lessons:
+- Tutorial #1: P5.JS Basics (starting from "Basics of Drawing")
+- Tutorial #2: Variables
+- Tutorial #3: Conditionals
+- Tutorial #4: Loops
+- Tutorial #5: Functions
 
 after watching/experimenting w/the lessons i want u to create ur own sketch (anything u want) using p5.js && submit it back to the original repo as a "pull-request", following the instructions in the README of the [repo](https://github.com/net-art-and-cultures/p5-template)
