@@ -67,3 +67,5 @@ For other Code + Culture References + Links, refer to the [links](links.md) page
 - [CSS Examples + Demos](https://github.com/net-art-and-cultures/css-demos)
 
 - [JavaScript: Intro to Programming](notes/javascript/README.md)
+
+- [Algorithmic Creativity](notes/algorithmic-art/README.md)
