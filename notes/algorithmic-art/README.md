@@ -14,6 +14,12 @@
 
 [https://talktotransformer.com/](https://talktotransformer.com/)
 
+![grammy](images/grammy.jpg)
+
+"McCready ran as many to-be-released albums through his bot as possible. It was these test cases that would reveal if the algorithm had any real power. The algorithm rated most of the unreleased CDs as ho-hum. But one, the algorithm said, contained nine likely hits out of fourteen total songs. Those are Beatles numbers. McCready could hardly believe it. Nobody had heard of this artist, which made McCready worry that the bot was wildly wrong. But then the album, Come Away with Me, was released, selling more than twenty million copies and netting its artist, Norah Jones, eight Grammy Awards"
+
+*Christopher Steiner form his book "Automate This: How Algorithms Came to Rule Our World" Penguin Random House. 2012.*
+
 # EMI (Experiments in Musical Intelligence)
 ## David Cope
 ![EMI](images/emi.jpg)
