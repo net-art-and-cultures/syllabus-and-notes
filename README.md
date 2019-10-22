@@ -69,3 +69,5 @@ For other Code + Culture References + Links, refer to the [links](links.md) page
 - [JavaScript: Intro to Programming](notes/javascript/README.md)
 
 - [Algorithmic Creativity](notes/algorithmic-art/README.md)
+
+- [Artware (software art)](notes/artware/README.md)
