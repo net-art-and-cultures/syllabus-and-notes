@@ -69,7 +69,7 @@ for homework this week i want u to spend as much time as u can practicing ur CSS
 - create a CSS still life. setup a classic still life (fruits, flowers, etc) && see if u can recreate it in "pure CSS"
 
 
-### WEEK 05: [Oc, 1]
+### WEEK 05: [Oct, 1]
 
 [![coding train](imgs/coding-train.png)](https://thecodingtrain.com/Tutorials/)
 
@@ -81,3 +81,8 @@ for homework this week u'll be forking this [p5-template](https://github.com/net
 - Tutorial #5: Functions
 
 after watching/experimenting w/the lessons i want u to create ur own sketch (anything u want) using p5.js && submit it back to the original repo as a "pull-request", following the instructions in the README of the [repo](https://github.com/net-art-and-cultures/p5-template)
+
+
+### WEEK 08: [Oct, 22]
+
+Next week we will be pitching projects to each other for the final. After, we will decide as a class which of the pitched project(s) we want to work on as a class for the final. You will be giving a ~15-20min presentation pitching your idea to the rest of the class. The idea must be an Artware concept (as defined in class && in the [notes](notes/artware/README.md)) which makes use of the Internet. You are encouraged to put together visual references (images, wireframes, sketches, etc) to aid in your presentation (but it is not required).
