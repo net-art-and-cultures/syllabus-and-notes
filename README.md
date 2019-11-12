@@ -71,3 +71,5 @@ For other Code + Culture References + Links, refer to the [links](links.md) page
 - [Algorithmic Creativity](notes/algorithmic-art/README.md)
 
 - [Artware (software art)](notes/artware/README.md)
+
+- [Final Project (GitHub/Agile workflow)](notes/final-project/README.md)
